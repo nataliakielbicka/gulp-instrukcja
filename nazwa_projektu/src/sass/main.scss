@@ -1,0 +1,7 @@
+@import '../partials/variables'; // colors, fonts etc...
+@import '../partials/mixins'; // custom mixins
+
+body {
+    background-color: $grey;
+		color: red;
+}
